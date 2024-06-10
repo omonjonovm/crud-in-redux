@@ -1,0 +1,63 @@
+/* App.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.cvc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.form-control.acm {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn {
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+.btn-warning:hover {
+    background-color: #e0a800;
+}
+
+
+.btn-danger:hover {
+    background-color: #c82333;
+}
+
+
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.ddd {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 50%;
+    text-align: center;
+}
+
+.ddd h1 {
+    font-size: 1.5em;
+    margin: 0 0 10px;
+}
+
+.ddd button {
+    margin: 0 5px;
+}
